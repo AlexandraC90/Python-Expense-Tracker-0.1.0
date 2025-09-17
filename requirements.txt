@@ -1,0 +1,3 @@
+# Personal Expense Tracker - requirements
+# This project is standard-library only (no required packages).
+# Recommended Python: 3.10+
